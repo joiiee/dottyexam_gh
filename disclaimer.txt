@@ -1,0 +1,16 @@
+/ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * I do not own assets or tools used in this site. These assets and tools are used to meet the required output for Dotty's Frontend exam. Here's the list of the source or links for reference and owner's credit. * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * /
+
+Images: Unsplash.com
+
+Icons: Fontawesome.com
+
+Video: Youtube - The Whitsundays, Queensland Australia 
+                 "https://www.youtube.com/watch?v=dhKEFcnU508"
+
+Font: Google Fonts "Open Sans"
+
+Plugin: Github "https://github.com/stamat/jquery.youtube-background"
+	~made some changes on the code to meet the desired output
+
+CSS Framework: Bootstrap
+
